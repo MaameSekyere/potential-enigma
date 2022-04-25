@@ -3,11 +3,12 @@
 _[Title] (#Title)
 _[Description] (#Description)
 _[Installation] (#Installation)
-_[Usage](#Usage)
+_[Usage] (#Usage)
 _[License] (#License)
 _[Contribution] (#Contribution)
 _[Tests] (#Tests)
-_[Links] (#Links) \*[Email] (#Email)
+_[Links] (#Links)
+[Email] (#Email)
 
 ## Title
 
@@ -55,6 +56,4 @@ THEN I am taken to the corresponding section of the README
 
 <a href= https://github.com/maamesekyere> Github</a>
 
-### maameant@gmail.com
-
-<a href="mailto:maameant@aol.com"> Email address</a>
+<a href="mailto:maameant@gmail.com"> Email address</a>
