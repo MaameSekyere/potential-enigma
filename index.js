@@ -122,6 +122,7 @@ const promptQuestions = () => {
       Links,
       Email,
     }) {
+      // TODO: Create a function to write README file 
       fs.writeFile(
         "./README.md",
         `
@@ -163,13 +164,9 @@ ${Tests}
       );
     });
 };
-
-promptQuestions();
-// TODO: Create a function to write README file
-//function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-//function init() {}
-
 // Function call to initialize app
-//init();
+promptQuestions();
+
+
+
+
