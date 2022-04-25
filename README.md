@@ -1,34 +1,40 @@
-
 # Table of Contents
-*[Title] (#Title)
-*[Description] (#Description)
-*[Installation] (#Installation)
-*[Usage](#Usage)
-*[License] (#License)
-*[Contribution] (#Contribution)
-*[Tests] (#Tests)
-*[Links] (#Links)
-*[Email] (#Email)
+
+_[Title] (#Title)
+_[Description] (#Description)
+_[Installation] (#Installation)
+_[Usage](#Usage)
+_[License] (#License)
+_[Contribution] (#Contribution)
+_[Tests] (#Tests)
+_[Links] (#Links) \*[Email] (#Email)
 
 ## Title
+
 Professional README Generator
 
 ## Description
+
 A readme generator that can quickly create a professional readme for a new project
 
 ## Installation
+
 node js, inquirer
 
 ## Usage
+
 README creator for web developers
 
 ## License
+
 Apache
 
 ## Contribution
+
 Nodejs, tutor services
 
 ## Tests
+
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for information about my application repository
 THEN a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -46,8 +52,9 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 ## Links
+
 <a href= https://github.com/maamesekyere> Github</a>
-### maameant@gmail.com 
+
+### maameant@gmail.com
+
 <a href="mailto:maameant@aol.com"> Email address</a>
-        
-        
