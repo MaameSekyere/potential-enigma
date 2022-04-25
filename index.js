@@ -124,7 +124,7 @@ const promptQuestions = () => {
     }) {
       // TODO: Create a function to write README file 
       fs.writeFile(
-        "./README.md",
+        "./newreademe.md",
         `
 # Table of Contents
 *[Title] (#Title)
